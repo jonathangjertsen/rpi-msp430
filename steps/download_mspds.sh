@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 set -eu -o pipefail
 
 trap "echo ❌ Failed to download MSPDS" ERR
