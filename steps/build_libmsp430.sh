@@ -8,7 +8,7 @@ cp hidapi/libusb/hid.o mspds/ThirdParty/lib/hid-libusb.o
 cp hidapi/libusb/hid.o mspds/ThirdParty/lib64/hid-libusb.o
 
 cd mspds
-make STATIC=1
+make
 
 sudo cp libmsp430.so /usr/lib/libmsp430.so
 
