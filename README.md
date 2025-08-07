@@ -10,7 +10,10 @@ To install, clone the repo and run `setup.sh`. Alternatively look into the `step
 
 If it ran successfully, you can now run `mspdebug` with your board connected, and you should be able to run stuff.
 
-Tested on: Raspberry Pi 4, Raspberry Pi 3 B+, using an MSP-EXP430FR2355 board.
+Tested on:
+
+- Raspberry Pi 4 / Raspberry Pi 3 B+ using an MSP-EXP430FR2355 board (@jonathrg)
+- Raspberry Pi 5 with TI MSP-FET and MSP430FG2618 (@RadioAct)
 
 ## Details
 
